@@ -1,5 +1,4 @@
-This is my first and a very simple project named TASK MANAGER which I created using the tech stacks : HTML, CSS , JAVASCRIPT . In this project you can simply add and remove tasks according to your comfort , it is just a beginner level project .
-
+I have developed a rudimentary project titled 'TASK MANAGER' using a technology stack comprising HTML, CSS, and JavaScript. The application allows users to dynamically add and remove tasks, providing a basic yet functional task management interface. This project serves as an entry-level demonstration of web development skills, showcasing basic proficiency in front-end technologies for creating interactive and responsive user interfaces.
 
 PROJECT TITLE: TASK-MANAGER
 PURPOSE OF PROJECT: To add and remove tasks according to the user's comfort.
