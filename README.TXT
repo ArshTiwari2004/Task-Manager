@@ -6,4 +6,4 @@ PURPOSE OF PROJECT: To add and remove tasks according to the user's comfort.
 VERSION or DATE: 27/11/2023
 HOW TO START THIS PROJECT: Simply using all the basics and some key concepts of HTML , CSS , JAVASCRIPT.
 AUTHORS: Arsh-Tiwari
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: 
